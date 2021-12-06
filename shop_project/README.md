@@ -28,4 +28,8 @@ Advantages:
 .1. Only one instance in memory, reducing memory overhead, especially for frequent creation and destruction of instances (e.g., managing the college home page cache).
 .2. Avoid multiple occupation of resources (e.g., write file operations).
 
-Translated with www.DeepL.com/Translator (free version)
+
+The result for input(screen shott in data file)
+input 1: 36.68 
+input 2 : 0 (Please correct quatity)
+input 3:1115.94

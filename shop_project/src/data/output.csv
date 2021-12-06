@@ -1,7 +1,6 @@
-Item,Quantity,No
-Milk,2,23489012
-Bread,8,23489012
-Oil,2,23489012
-Cotton,4,23489012
-Apples,8,23489012
-total,103.08
+Item,Quantity,Card number
+Milk,1,1234 5678 9101 1121
+Bread,2,1234 5678 9101 1121
+Oil,2,1234 5678 9101 1121
+Chocolates,3,1234 5678 9101 1121
+total,36.68
