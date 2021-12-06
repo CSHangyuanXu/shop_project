@@ -29,7 +29,7 @@ Advantages:
 .2. Avoid multiple occupation of resources (e.g., write file operations).
 
 
-The result for input(screen shot in data file)
+The result for input(screen shot in src/data file)
 
 input 1: 36.68 
 
