@@ -29,7 +29,10 @@ Advantages:
 .2. Avoid multiple occupation of resources (e.g., write file operations).
 
 
-The result for input(screen shott in data file)
+The result for input(screen shot in data file)
+
 input 1: 36.68 
+
 input 2 : 0 (Please correct quatity)
+
 input 3:1115.94
